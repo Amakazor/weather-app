@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="ts-external-references" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/.pnpm/@emotion+cache@11.7.1/node_modules/@emotion/cache/types/index.d.ts" />
+        <item url="file://$PROJECT_DIR$/node_modules/.pnpm/@emotion+serialize@1.0.3/node_modules/@emotion/serialize/types/index.d.ts" />
+        <item url="file://$PROJECT_DIR$/node_modules/.pnpm/@emotion+utils@1.1.0/node_modules/@emotion/utils/types/index.d.ts" />
+        <item url="file://$PROJECT_DIR$/node_modules/.pnpm/@next+env@12.1.6/node_modules/@next/env/types/index.d.ts" />
+        <item url="file://$PROJECT_DIR$/node_modules/.pnpm/@types+prop-types@15.7.5/node_modules/@types/prop-types/index.d.ts" />
+        <item url="file://$PROJECT_DIR$/node_modules/.pnpm/@types+scheduler@0.16.2/node_modules/@types/scheduler/tracing.d.ts" />
+        <item url="file://$PROJECT_DIR$/node_modules/.pnpm/csstype@3.1.0/node_modules/csstype/index.d.ts" />
+        <item url="file://$PROJECT_DIR$/node_modules/.pnpm/styled-jsx@5.0.2_omqliybhxbwwl4ckmrqtoyn5em/node_modules/styled-jsx/index.d.ts" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/.pnpm/@emotion+cache@11.7.1/node_modules/@emotion/cache/types/index.d.ts" />
+      <root url="file://$PROJECT_DIR$/node_modules/.pnpm/@emotion+serialize@1.0.3/node_modules/@emotion/serialize/types/index.d.ts" />
+      <root url="file://$PROJECT_DIR$/node_modules/.pnpm/@emotion+utils@1.1.0/node_modules/@emotion/utils/types/index.d.ts" />
+      <root url="file://$PROJECT_DIR$/node_modules/.pnpm/@next+env@12.1.6/node_modules/@next/env/types/index.d.ts" />
+      <root url="file://$PROJECT_DIR$/node_modules/.pnpm/@types+prop-types@15.7.5/node_modules/@types/prop-types/index.d.ts" />
+      <root url="file://$PROJECT_DIR$/node_modules/.pnpm/@types+scheduler@0.16.2/node_modules/@types/scheduler/tracing.d.ts" />
+      <root url="file://$PROJECT_DIR$/node_modules/.pnpm/csstype@3.1.0/node_modules/csstype/index.d.ts" />
+      <root url="file://$PROJECT_DIR$/node_modules/.pnpm/styled-jsx@5.0.2_omqliybhxbwwl4ckmrqtoyn5em/node_modules/styled-jsx/index.d.ts" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,23 @@
+export const i18n = {
+  en: {
+    timings: "Hours",
+    temperatures: "Temperatures",
+    atmospheric: "Atmospheric",
+    other: "Other",
+    sunrise: "Sunrise",
+    sunset: "Sunset",
+    moonrise: "Moonrise",
+    moonset: "Moonset",
+    averageDay: "Average during day",
+    averageNight: "Average during night",
+    minimum: "Minimum",
+    maximum: "Maximum",
+    pressure: "Pressure",
+    humidity: "Humidity",
+    cloudiness: "Cloudiness",
+    rainfall: "Rainfall",
+    snowfall: "Snowfall",
+    windSpeed: "Wind Speed",
+    windDirection: "Wind Direction",
+  },
+};

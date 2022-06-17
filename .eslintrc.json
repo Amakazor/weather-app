@@ -1,3 +1,44 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next/core-web-vitals", "prettier"],
+  "rules": {
+    "eqeqeq": "error",
+    "quote-props": ["error", "as-needed"],
+    "react/self-closing-comp": "error",
+    "react/jsx-curly-spacing": ["error", { "when": "never" }],
+    "react/jsx-closing-bracket-location": ["error", "tag-aligned"],
+    "react/jsx-curly-brace-presence": ["error", { "props": "never", "children": "never" }],
+    "react/jsx-indent": ["error", 2],
+    "react/jsx-wrap-multilines": [
+      "error",
+      {
+        "declaration": "parens-new-line",
+        "assignment": "parens-new-line",
+        "return": "parens-new-line",
+        "arrow": "parens-new-line",
+        "condition": "parens-new-line"
+      }
+    ],
+    "simple-import-sort/imports": "error",
+    "simple-import-sort/exports": "error",
+    "unicorn/filename-case": [
+      "error",
+      {
+        "case": "kebabCase"
+      }
+    ],
+    "prettier/prettier": [
+      "error",
+      {
+        "singleQuote": false,
+        "endOfLine": "auto",
+        "jsxSingleQuote": false
+      }
+    ]
+  },
+  "plugins": ["react", "simple-import-sort", "prettier", "unicorn"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  }
 }
